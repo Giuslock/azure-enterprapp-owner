@@ -1,4 +1,4 @@
-# azure-entrprapp-owner
+# azure-enterprapp-owner
 
 This PowerShell script retrieves the owner of all Enterprise Apps in an Azure AD tenant and outputs the results to a CSV file.
 
@@ -48,7 +48,7 @@ The output file will have the following columns:
 
 ## Contributing
 
-If you'd like to contribute to this project, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/azure-entrprapp-owner).
+If you'd like to contribute to this project, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Giuslock/azure-enterprapp-owner).
 
 ## License
 
