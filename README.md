@@ -52,4 +52,4 @@ If you'd like to contribute to this project, please open an issue or submit a pu
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for details.
+This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html). See the `LICENSE` file for details.
